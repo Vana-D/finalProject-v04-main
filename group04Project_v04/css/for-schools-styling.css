@@ -154,10 +154,10 @@ h1, h2, h3, h4, h5, h6 {margin: 0;}
 .font-extrabold       {font-weight: var(--fw-800);}
 
 /* Styling HTML elements */
-.bolded               {font-weight: bold;}
-.emphasized           {font-style: italic;}
+.text-bolded          {font-weight: bold;}
+.text-emphasized      {font-style: italic;}
+.text-underlined      {text-decoration: underline;}
 .address              {letter-spacing: .5px;}
-
 
 /*----- Blockquote ----- */
 .blockquote           {font-size: 2rem;font-weight: 200;}
